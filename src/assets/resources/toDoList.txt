@@ -1,0 +1,15 @@
+Cosas que faltan del proyecto
+
+version 1.0{
+    - separar los componentes del navbar -x-
+    - corregir colores de los botones -x-
+    - buscar icono para usar de logo -x-
+    - agregar una galeria de imagenes -x-
+}
+
+version 1.1{
+    - farle funcionalidad a los botones 
+    - arreglar como se ven las imagenes del carousel
+    - agregar un footer
+    - agregar una pagina de informacion con datos del cliente
+}

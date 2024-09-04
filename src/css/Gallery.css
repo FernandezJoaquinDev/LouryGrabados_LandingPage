@@ -1,0 +1,25 @@
+.contenedorImagenes{
+    width: 300px;
+}
+
+.contenedorImagenes img{
+    vertical-align: middle;
+}
+
+.grilla{
+    border-radius: 5px;
+    height: 70vh;
+    width: 100%;
+}
+
+.containerImg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.titulo{
+    color: white;
+    text-align: center;
+}
